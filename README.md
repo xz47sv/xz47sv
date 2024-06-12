@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**xz47sv/xz47sv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- my site: https://ash.fail
+- contact: https://ash.fail/contact.html
 
-Here are some ideas to get you started:
+## I am not active here and I only use github for submitting issues/pull requests!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+All my personal projects can be found on:
+- codeberg: https://codeberg.org/ashie
+- sourcehut: https://git.sr.ht/~ashie
+
+Posts neatly summarizing my feelings about github better than I ever could:
+- https://tomscii.sig7.se/2024/01/Ditching-GitHub
+- https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option
